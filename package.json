@@ -1,5 +1,5 @@
 {
-  "name": "@cuttercroix/barcodescanner-sdk31",
+  "name": "barcodescanner-sdk31-cc",
   "version": "8.1.2",
   "description": "You can use the BarcodeScanner plugin to scan different types of barcodes (using the device's camera) and get the metadata encoded in them for processing within your application.",
   "cordova": {
